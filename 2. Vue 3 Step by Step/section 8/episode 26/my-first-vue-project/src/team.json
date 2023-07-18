@@ -1,0 +1,31 @@
+{
+  "name": "Smiley",
+  "spots": 7,
+  "members": [
+    {
+      "name": "Diogo Lemos",
+      "email": "diogo@something.com",
+      "status": "active"
+    },
+    {
+      "name": "Mags Lemos",
+      "email": "mags@something.com",
+      "status": "active"
+    },
+    {
+      "name": "Maggy Lemos",
+      "email": "maggy@something.com",
+      "status": "active"
+    },
+    {
+      "name": "Guida Lemos",
+      "email": "guida@something.com",
+      "status": "active"
+    },
+    {
+      "name": "Di Lemos",
+      "email": "di@something.com",
+      "status": "active"
+    }
+  ]
+}

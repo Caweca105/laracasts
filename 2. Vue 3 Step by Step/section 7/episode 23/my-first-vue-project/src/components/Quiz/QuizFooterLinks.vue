@@ -1,0 +1,16 @@
+<template>
+  <div>
+    <h5>{{ state.name }}</h5>
+
+    <button @change="state.name = 'A New Quiz Name'">Change Quiz Name</button>
+
+    <ul>
+      <li><a href="#">Get a job</a></li>
+      <li><a href="#">Contact us</a></li>
+    </ul>
+  </div>
+</template>
+
+<script setup>
+import { state } from '@/store'
+</script>
